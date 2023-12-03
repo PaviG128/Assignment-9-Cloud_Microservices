@@ -16,7 +16,7 @@ This microservice is designed to manage a product catalog. It includes functiona
  
 ## Build and Run
  
-1. Clone the repository: `git clone <repository_url>`
+1. Clone the repository: `git clone https://github.com/PaviG128/Assignment-9-Cloud_Microservices.git
 2. Navigate to the project directory: `cd product-catalog-microservice`
 3. Build the project: `./mvnw clean install` 
 4. Run the application: `./mvnw spring-boot:run` 
